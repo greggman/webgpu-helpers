@@ -30,3 +30,6 @@ This might be useful for things like three.js, babylon.js, unity, etc where it's
 like to produce a stand alone repo for a bug report or just see
 how their shaders work.
 
+# LICENSE
+
+[MIT](LICENSE.md)
