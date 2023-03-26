@@ -1,0 +1,23 @@
+{
+  "name": "webgpu-helpers",
+  "version": "1.0.0",
+  "description": "Small WebGPU scripts",
+  "main": "nope",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greggman/webgpu-helpers.git"
+  },
+  "keywords": [
+    "webgpu"
+  ],
+  "author": "Gregg Tavares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greggman/webgpu-helpers/issues"
+  },
+  "homepage": "https://github.com/greggman/webgpu-helpers#readme"
+}
